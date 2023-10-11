@@ -79,5 +79,7 @@ server {
 http://192.168.1.1:30090
 ```
 理论上一个可横屏，可全屏的浏览浏览器就可完美显示，不排除屏幕太小导致显示异常，可以修改内核版本为固定短字符。至于浏览器，作者选用是 Dolphin（海豚浏览器），这个没有特殊要求。
+## 交流探讨
+[阿方的频道](https://t.me/afangcp)
 ## LICENSE
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faafang%2FClashMetaData.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Faafang%2FClashMetaData?ref=badge_large&issueType=license)
